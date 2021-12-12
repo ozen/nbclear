@@ -3,4 +3,4 @@
     description: Automatically remove the outputs from Jupyter notebooks.
     entry: nbclear
     language: python
-    types: [python]
+    types: [jupyter]
