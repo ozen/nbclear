@@ -1,0 +1,6 @@
+-   id: nbclear
+    name: nbclear
+    description: Automatically remove the outputs from Jupyter notebooks.
+    entry: nbclear
+    language: python
+    types: [python]
